@@ -33,8 +33,7 @@ Welcome to my data analysis portfolio! Here, I showcase a range of data-driven p
 ## 🔍 Featured Visualizations
 
 Here are some screenshots of the dashboards and visualizations created in these projects.
-
-[// Insert images of dashboards, charts, and reports here]
+![1](https://github.com/user-attachments/assets/b4c20e37-cf07-40d6-8b97-e01fc53b156a)
 
 ---
 
