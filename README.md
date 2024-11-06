@@ -1,6 +1,6 @@
 # Data Analysis Portfolio 📊
 
-Welcome to my data analysis portfolio! Here, I showcase a range of data-driven projects, demonstrating my skills in data extraction, cleaning, exploration, visualization, and modeling using tools like Python, SQL, and Power BI.
+Welcome to my data analysis portfolio! Here, I showcase a range of data-driven projects, demonstrating my skills in data extraction, cleaning, exploration, visualization, and modeling using tools like Python, SQL, Excel, and Power BI.
 
 ---
 
@@ -18,8 +18,8 @@ Welcome to my data analysis portfolio! Here, I showcase a range of data-driven p
 
 3. **Sales Performance Dashboard**  
    - **Description**: Developed a comprehensive dashboard that tracks key sales metrics, allowing stakeholders to monitor trends and make data-driven decisions.
-   - **Tools**: SQL, Power BI
-   - **Highlights**: Built within three days, delivering actionable insights into product and region performance.
+   - **Tools**: SQL, Power BI, Excel
+   - **Highlights**: delivering actionable insights into product and region performance.
 
 ---
 
